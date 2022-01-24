@@ -11,7 +11,7 @@ Basil and Sadhana like how you created your earthquake map with two different ma
  * ![click here for : index.html](https://github.com/dhaval-28/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html)
  * Webserver Link : https://dhaval-28.github.io/Mapping_Earthquakes/
 
-
+ 
 The final webpage has functional:  
 * 1.Deliverable 1: Add Tectonic Plate Data - Added to layer and workig as expected
 * 2.Deliverable 2: Add Major Earthquake Data - Added to layer and workig as expected
