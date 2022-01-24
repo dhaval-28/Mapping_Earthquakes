@@ -9,6 +9,7 @@ Basil and Sadhana like how you created your earthquake map with two different ma
 **Files*
  * ![click here for : challenge_logic.js file](https://github.com/dhaval-28/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js)
  * ![click here for : index.html](https://github.com/dhaval-28/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html)
+ * Link to webserver : https://dhaval-28.github.io/Mapping_Earthquakes/Earthquake_Challenge/
 
  
 The final webpage has functional:  
