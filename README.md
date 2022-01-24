@@ -13,9 +13,9 @@ Basil and Sadhana like how you created your earthquake map with two different ma
 
 
 The final webpage has functional:  
-* 1.Deliverable 1: Add Tectonic Plate Data - Added to layer and workig great
-* 2.Deliverable 2: Add Major Earthquake Data - Added to layer and workig great
-* 3.Deliverable 3: Add an Additional Map - Dark Map 
+* 1.Deliverable 1: Add Tectonic Plate Data - Added to layer and workig as expected
+* 2.Deliverable 2: Add Major Earthquake Data - Added to layer and workig as expected
+* 3.Deliverable 3: Add an Additional Map - Added Dark Map 
 
 
 Final Webpage looks like this :
