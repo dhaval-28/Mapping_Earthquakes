@@ -9,7 +9,6 @@ Basil and Sadhana like how you created your earthquake map with two different ma
 **Files*
  * ![click here for : challenge_logic.js file](https://github.com/dhaval-28/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js)
  * ![click here for : index.html](https://github.com/dhaval-28/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html)
- * Webserver Link : https://dhaval-28.github.io/Mapping_Earthquakes/
 
  
 The final webpage has functional:  
@@ -19,5 +18,6 @@ The final webpage has functional:
 
 
 Final Webpage looks like this :
+Current Options Selected in screenshot : Dark Map, Earthquake layer & Tectonic Plate Layer
 
 ![Final Webpage](https://github.com/dhaval-28/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Earthquakes_Mapping_Challenge_v3.png)
