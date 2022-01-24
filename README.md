@@ -20,4 +20,4 @@ The final webpage has functional:
 
 Final Webpage looks like this :
 
-![Final Webpage](https://github.com/dhaval-28/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Earthquakes_Mapping_Challenge_v2.png)
+![Final Webpage](https://github.com/dhaval-28/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Earthquakes_Mapping_Challenge_v3.png)
