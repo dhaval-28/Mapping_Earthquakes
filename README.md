@@ -9,7 +9,7 @@ Basil and Sadhana like how you created your earthquake map with two different ma
 **Files*
  * ![click here for : challenge_logic.js file](https://github.com/dhaval-28/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/js/challenge_logic.js)
  * ![click here for : index.html](https://github.com/dhaval-28/Mapping_Earthquakes/blob/main/Earthquake_Challenge/index.html)
- * Webserver Link : https://dhaval-28.github.io/plotly_bellybutton_biodiversity/
+ * Webserver Link : https://dhaval-28.github.io/Mapping_Earthquakes/
 
 
 The final webpage has functional:  
